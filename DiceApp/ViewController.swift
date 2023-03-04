@@ -26,6 +26,8 @@ class ViewController: UIViewController {
        // diceImageView2.alpha = 0.5
     }
 
-
+    @IBAction func rollButtonPressed(_ sender: UIButton) {
+    }
+    
 }
 
